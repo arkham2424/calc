@@ -1,3 +1,5 @@
+import streamlit as st
+
 # Take user input
 num1 = st.text_input("Enter the first number:")
 num2 = st.text_input("Enter the second number:")
